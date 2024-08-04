@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/ovali/static/css/main.684f3b9a.css",
-    "main.js": "/ovali/static/js/main.535effad.js",
+    "main.js": "/ovali/static/js/main.64b99c2d.js",
     "static/js/453.cddbc327.chunk.js": "/ovali/static/js/453.cddbc327.chunk.js",
     "static/media/background.png": "/ovali/static/media/background.6bf5ccf28da26ad4ef87.png",
     "index.html": "/ovali/index.html",
     "static/media/ice-cream.svg": "/ovali/static/media/ice-cream.6c14a5ac0b998a32b49f142e7e03539d.svg",
     "static/media/burger-menu.svg": "/ovali/static/media/burger-menu.fc12fbd678bea2ce4ec9524cbe12a170.svg",
     "main.684f3b9a.css.map": "/ovali/static/css/main.684f3b9a.css.map",
-    "main.535effad.js.map": "/ovali/static/js/main.535effad.js.map",
+    "main.64b99c2d.js.map": "/ovali/static/js/main.64b99c2d.js.map",
     "453.cddbc327.chunk.js.map": "/ovali/static/js/453.cddbc327.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.684f3b9a.css",
-    "static/js/main.535effad.js"
+    "static/js/main.64b99c2d.js"
   ]
 }
