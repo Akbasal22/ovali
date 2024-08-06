@@ -1,18 +1,38 @@
 {
   "files": {
-    "main.css": "/ovali/static/css/main.8acdd787.css",
-    "main.js": "/ovali/static/js/main.15c09ea8.js",
+    "main.css": "/ovali/static/css/main.00bf8823.css",
+    "main.js": "/ovali/static/js/main.a18fa600.js",
     "static/js/453.cddbc327.chunk.js": "/ovali/static/js/453.cddbc327.chunk.js",
     "static/media/background.png": "/ovali/static/media/background.6bf5ccf28da26ad4ef87.png",
+    "static/media/hindistan.jpeg": "/ovali/static/media/hindistan.703c1e6ae49379c9c2e4.jpeg",
+    "static/media/antep.jpeg": "/ovali/static/media/antep.ed2c9abb4ddbb174d3f1.jpeg",
+    "static/media/incirceviz.jpeg": "/ovali/static/media/incirceviz.a31b23c4d845fbddab44.jpeg",
+    "static/media/karadut.jpeg": "/ovali/static/media/karadut.cc15ad5ec227c9269f37.jpeg",
+    "static/media/sade.jpeg": "/ovali/static/media/sade.453ca8f2efefcf060ab2.jpeg",
+    "static/media/kahve.jpeg": "/ovali/static/media/kahve.7c06d9dbebc74ea33a57.jpeg",
+    "static/media/cikolata.jpeg": "/ovali/static/media/cikolata.6e711959b25d5de21538.jpeg",
+    "static/media/limon.jpeg": "/ovali/static/media/limon.69b2476818346f7468e7.jpeg",
+    "static/media/kavun.jpeg": "/ovali/static/media/kavun.2f1d80264c0b7df00aa9.jpeg",
+    "static/media/kunar.jpeg": "/ovali/static/media/kunar.7f2a486467048db006e4.jpeg",
+    "static/media/cilek.jpeg": "/ovali/static/media/cilek.e048efeb996f11badcf7.jpeg",
+    "static/media/damlasakiz.jpeg": "/ovali/static/media/damlasakiz.ff98bb2be5d099cdaf4b.jpeg",
+    "static/media/balbadem.jpeg": "/ovali/static/media/balbadem.8abd6e738c0bb69ae830.jpeg",
+    "static/media/tahin.jpeg": "/ovali/static/media/tahin.5a1a647d0822b94ef6a1.jpeg",
+    "static/media/oreo.jpeg": "/ovali/static/media/oreo.f54ae2341995738daa48.jpeg",
+    "static/media/karamel.jpeg": "/ovali/static/media/karamel.f1135ab9e9c3e5ed5c98.jpeg",
+    "static/media/yogurt.jpeg": "/ovali/static/media/yogurt.902c60e97873042a2a55.jpeg",
+    "static/media/nane.jpeg": "/ovali/static/media/nane.80a6dbb1a890098a60f6.jpeg",
+    "static/media/visne.jpeg": "/ovali/static/media/visne.ed18a043d9629d844527.jpeg",
+    "static/media/italyan.jpeg": "/ovali/static/media/italyan.9bf7bd28885d881c6427.jpeg",
     "index.html": "/ovali/index.html",
     "static/media/ice-cream.svg": "/ovali/static/media/ice-cream.6c14a5ac0b998a32b49f142e7e03539d.svg",
     "static/media/burger-menu.svg": "/ovali/static/media/burger-menu.fc12fbd678bea2ce4ec9524cbe12a170.svg",
-    "main.8acdd787.css.map": "/ovali/static/css/main.8acdd787.css.map",
-    "main.15c09ea8.js.map": "/ovali/static/js/main.15c09ea8.js.map",
+    "main.00bf8823.css.map": "/ovali/static/css/main.00bf8823.css.map",
+    "main.a18fa600.js.map": "/ovali/static/js/main.a18fa600.js.map",
     "453.cddbc327.chunk.js.map": "/ovali/static/js/453.cddbc327.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8acdd787.css",
-    "static/js/main.15c09ea8.js"
+    "static/css/main.00bf8823.css",
+    "static/js/main.a18fa600.js"
   ]
 }
