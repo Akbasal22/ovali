@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ovali/static/css/main.c64dc2c1.css",
-    "main.js": "/ovali/static/js/main.b8042087.js",
+    "main.css": "/ovali/static/css/main.53df51a3.css",
+    "main.js": "/ovali/static/js/main.9aadc945.js",
     "static/js/453.cddbc327.chunk.js": "/ovali/static/js/453.cddbc327.chunk.js",
     "static/media/background.png": "/ovali/static/media/background.6bf5ccf28da26ad4ef87.png",
     "static/media/hindistan.jpeg": "/ovali/static/media/hindistan.703c1e6ae49379c9c2e4.jpeg",
@@ -27,12 +27,12 @@
     "index.html": "/ovali/index.html",
     "static/media/ice-cream.svg": "/ovali/static/media/ice-cream.6c14a5ac0b998a32b49f142e7e03539d.svg",
     "static/media/burger-menu.svg": "/ovali/static/media/burger-menu.fc12fbd678bea2ce4ec9524cbe12a170.svg",
-    "main.c64dc2c1.css.map": "/ovali/static/css/main.c64dc2c1.css.map",
-    "main.b8042087.js.map": "/ovali/static/js/main.b8042087.js.map",
+    "main.53df51a3.css.map": "/ovali/static/css/main.53df51a3.css.map",
+    "main.9aadc945.js.map": "/ovali/static/js/main.9aadc945.js.map",
     "453.cddbc327.chunk.js.map": "/ovali/static/js/453.cddbc327.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c64dc2c1.css",
-    "static/js/main.b8042087.js"
+    "static/css/main.53df51a3.css",
+    "static/js/main.9aadc945.js"
   ]
 }
